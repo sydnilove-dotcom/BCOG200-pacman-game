@@ -30,3 +30,4 @@ PLAYER_SPEED = CHAR_SIZE // 4
 GHOST_SPEED = 4
 
   #example map found from research
+  #example file
