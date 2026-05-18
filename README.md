@@ -12,7 +12,7 @@ button to restart the game.
 ## How to Run the Game
 
 If you have never run this game before, you need Python and Pygame installed
-first.
+first. Can run through visual studio code afterwards (my preferred method)
 
 ### 1. Install Python
 
